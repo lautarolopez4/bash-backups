@@ -1,4 +1,4 @@
-# Regular Backups
+# Bash Backup Project
 
 This simple project automates regular backups of your important files and provides a mechanism to check that the backups are working as expected.
 
